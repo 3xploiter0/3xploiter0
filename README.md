@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&vCenter=true&width=435&lines=%3E+whoami;%3E+3xploiter0;%3E+Offensive+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&vCenter=true&width=435&lines=%3E+whoami;%3E+3xploiter0;%3E+Offensive+Security" alt="Typing SVG" />
 
 <br />
 

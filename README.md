@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-000000?style=flat-square&logo=github&logoColor=ffffff" />
 </p>
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=3xploiter0&style=flat-square&color=0a0a0a" alt="Profile Views" />
+
 </div>
 
 ---
